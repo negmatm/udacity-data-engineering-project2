@@ -10,7 +10,7 @@ This project contains a script for merging a set of event files into a single/de
 This dataset consists of event files in csv format containing information on songs listened to by different users
 
 ## Denormalized File
-![alt text https://github.com/negmatm/udacity-data-engineering-project2/blob/main/images/image_event_datafile_new.jpghttps://github.com/negmatm/udacity-data-engineering/blob/main/Udacity%20Data%20Engineering%20Project%201%20ERD%20Diagram.png?raw=true)
+![alt text] (https://github.com/negmatm/udacity-data-engineering-project2/blob/main/images/image_event_datafile_new.jpghttps://github.com/negmatm/udacity-data-engineering/blob/main/Udacity%20Data%20Engineering%20Project%201%20ERD%20Diagram.png?raw=true)
 
 ## Scripts
 * **Project_1B_ Project_Template.ipynb:** Contains a script for creating combined/denormalized file, creating tables, etl code for loading data into tables, as well as sql queries
